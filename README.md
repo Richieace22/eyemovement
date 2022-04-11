@@ -4,7 +4,7 @@
 This project is for the MIT xPro Full-Stack Web Development course, and its foucus is on manipulating styles with JavaScript and CSS. When viewed in a browser, a webpage with depicting two "eyes" is displayed. The "eyes" follow the movement of the mouse. 
 
 ## HOW TO RUN
-Clone all files in this repo to your local drive. Then open the index.html file in a browser. Move your mouse to make the eyes move. 
+Download repo zip or clone repo. Open index.html in browser.
 
 ## ROAD MAP TO FUTURE IMPROVEMENTS
 Add a button that, when clicked, generates new "eyes" randomly across the page that also respond to mouse movement.
