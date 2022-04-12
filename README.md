@@ -11,7 +11,7 @@ Add a button that, when clicked, generates new "eyes" randomly across the page t
 <br>
 
 
-## LICENSE
+## Licensing Information
 MIT License
 
 Copyright (c) 2020 John Williams
