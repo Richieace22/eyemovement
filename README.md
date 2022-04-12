@@ -1,4 +1,4 @@
-# Eye Movement Exercise MIT XPRO
+# Eye Movement Exercise
 
 ## DESCRIPTION
 This project is for the MIT xPro Full-Stack Web Development course, and its foucus is on manipulating styles with JavaScript and CSS. When viewed in a browser, a webpage with depicting two "eyes" is displayed. The "eyes" follow the movement of the mouse. 
